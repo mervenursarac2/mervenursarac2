@@ -31,5 +31,5 @@
 - **FrontEnd Developing** ⚡  
 -->
 ## 📬 Connect with Me  
-📧 Email: mervenursarac60@gmail.com  
+📧 Email: mervenursarac60@gmail.com  <br>
 🔗 LinkedIn: https://www.linkedin.com/in/mervenur-sara%C3%A7-a8897228b/
