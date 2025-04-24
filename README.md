@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
-//
+<!--
 ## 🌱 Currently Learning  
 - **Data Engineering & Big Data** 📊  
 - **Machine Learning Basics** 🤖  
 - **FrontEnd Developing** ⚡  
-//
+-->
 ## 📬 Connect with Me  
 📧 Email: mervenursarac60@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mervenur-sara%C3%A7-a8897228b/
